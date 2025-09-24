@@ -1,9 +1,9 @@
-<h1 align="center">Notes</h1>
+<h1 align="center">F5</h1>
 
-<p align="center"><a href="IMAGE"><img src="IMAGE"></img></a></p>
+<p align="center"><a href="https://www.f5.com/"><img src="F5graphic.png"></img></a></p>
 
 ## Description:
-**Name of Event** with Description of the event and link. 
+**Simplify Modern App Delivery and Security with NGINX One** from [F5](https://event.on24.com/wcc/r/5052107/B33DA7B950D5DFE6E289BACBE55AA3DA?mode=login&email=nelson@oakhalo.com&mkt_tok=NjUzLVNNQy03ODMAAAGdG6TdbeTdqCi4q_XSxvNvSvT5LW-EvjEvQa03ujfJgDY8juwT5YSAVi5HB6hqfgLXmGlnLeAbSSsK6NAnGkZhRQP1RNqd2TSL00VyM7J_WG59viYN8bU). In this webinar, we’ll show you how NGINX One empowers platform and DevOps teams to optimize modern application delivery. You'll also discover how its integrated components and centralized management enhance scalability, performance, and operational efficiency.
 
 ## Notes:
 #### Name | [Company](link)
@@ -14,8 +14,8 @@
 
 
 ## Resources:
-- Blackbird.AI is focusing on Kursk Incursion (2024):
-    - **Compass Context** to verify and contextualize the information you see [online](https://blackbird.ai/compass-context/)
+- F5 is focusing on Security with NGINX One:
+    - **F5 NGINX One** Application delivery management software to optimize, scale, and secure modern apps, Kubernetes clusters, API communications, and AI inference across diverse [environments](https://www.f5.com/products/nginx/one).
 
 
 ## Contact:
